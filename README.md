@@ -4,11 +4,10 @@ Um aplicativo web moderno e inteligente para gestão de patrimônio e rebalancea
 
 ## 👨‍💻 Desenvolvedor
 
-**Luiz Wessel** - Desenvolvedor Full Stack especializado em aplicações financeiras e análise de dados.
+**Luiz Wessel** - Estudante em IA na Faculdade Donaduzzi.
 
-- 💼 **LinkedIn**: [Luiz Wessel](https://linkedin.com/in/luizwessel)
-- 🐙 **GitHub**: [@luizwessel](https://github.com/luizwessel)
-- 📧 **Email**: luiz.wessel@email.com
+- 🐙 **GitHub**: [@Wessel2007](https://github.com/Wessel2007)
+- 📧 **Email**: heyxist3r@gmail.com
 
 ## 🚀 Funcionalidades
 
@@ -250,9 +249,6 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 Se encontrar algum problema ou tiver sugestões, abra uma issue no repositório.
 
 ## 📈 Demonstração
-
-### Live Demo
-Acesse a versão online: [new-ai-invest.vercel.app](https://new-ai-invest.vercel.app)
 
 ### Screenshots
 - **Dashboard**: Visão geral com KPIs e gráficos
